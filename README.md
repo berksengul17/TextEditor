@@ -6,6 +6,6 @@ Text editor written in python using tkinter.
 # Writing to a file  
 <img src="Screenshots/main.PNG" width = 400>  
 # Opening a file  
-<img src="Screenshots/openFile.PNG" width = 200 height = 200>  
+<img src="Screenshots/openFile.PNG" width = 400>  
 # Saving a file  
-<img src="Screenshots/saveFile.PNG" width = 200 height = 200>
+<img src="Screenshots/saveFile.PNG" width = 400>
