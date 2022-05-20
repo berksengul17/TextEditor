@@ -7,4 +7,4 @@ Text editor written in python using tkinter.
 ![](Screenshots/openFile.PNG)  
 ![](Screenshots/saveFile.PNG)  
 
-<img src="Screenshots/main.png" with=100>  
+<img src="Screenshots/main.PNG" with=100>  
