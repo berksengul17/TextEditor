@@ -3,8 +3,6 @@ Text editor written in python using tkinter.
 
 -You can open text files or create your own files or edit an existing file.  
 
-![](Screenshots/main.PNG)  
+![alt_text](Screenshots/main.PNG)  
 ![](Screenshots/openFile.PNG)  
 ![](Screenshots/saveFile.PNG)  
-
-<img src="Screenshots/main.PNG" with=100>  
