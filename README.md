@@ -5,4 +5,6 @@ Text editor written in python using tkinter.
 
 ![](Screenshots/main.png)  
 ![](Screenshots/openFile.png)  
-![](Screenshots/saveFile.png)
+![](Screenshots/saveFile.png)  
+
+<img src="Screenshots/main.png" with=100>  
